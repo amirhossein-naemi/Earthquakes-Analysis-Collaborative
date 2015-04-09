@@ -1,9 +1,9 @@
 //-----------------------------------------------------------------------------
 //
 // Earthquakes' Events Analysis
-// By Amirhossein Naemi
-// March, 2015
-// GIT: https://github.com/amirhossein-naemi/Earthquakes-Analysis-v3
+// By Amirhossein, Philip, Shima
+// April, 2015
+// GIT: https://github.com/amirhossein-naemi/Earthquakes-Analysis-Collaborative
 //
 //-----------------------------------------------------------------------------
 
